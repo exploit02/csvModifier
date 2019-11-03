@@ -8,6 +8,6 @@ It's Expecting two body parameter in request.
 
     KEY                         VALUE
 --------------------------------------------------------------------
- 1. csv ( Mandatory )          csv file
+ 1. csv ( Mandatory )     ------->          csv file
 
- 2. remove ( Optional )        Array of column names to be removed
+ 2. remove ( Optional )   ------->          Array of column names to be removed
